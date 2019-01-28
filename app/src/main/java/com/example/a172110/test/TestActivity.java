@@ -4,6 +4,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 
+/**
+  * テストするアクティビティ
+  * 
+  * @auther sakaue  
+  *
+  */
 public class TestActivity extends AppCompatActivity {
 
     @Override

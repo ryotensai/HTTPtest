@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 
 /**
-  * テストするアクティビティ
+  * テストするアクティビティでおま
   * 
   * @auther sakaue  
   *
